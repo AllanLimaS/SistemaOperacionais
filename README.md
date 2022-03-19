@@ -1,3 +1,2 @@
 # SistemaOperacionais
 
-pintão estralando 
